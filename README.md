@@ -1,1 +1,1 @@
-# Beginner-Certification
+# SQL-Beginner-Certification
